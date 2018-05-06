@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1524302575 source:d:\code\sequencelist\main.c
+	<stdio.h>
+	"SequenceList.c"
+
+1524301047 d:\code\sequencelist\sequencelist.c
+	"SequenceList.h"
+
+1524298792 d:\code\sequencelist\sequencelist.h
+	<stdio.h>
+	<stdlib.h>
+	"./Status.h"
+
+1524295166 d:\code\sequencelist\status.h
+
+1524302653 source:d:\code\linearlist\sequencelist\main.c
+	<stdio.h>
+	"SequenceList.c"
+
+1524301047 d:\code\linearlist\sequencelist\sequencelist.c
+	"SequenceList.h"
+
+1524298792 d:\code\linearlist\sequencelist\sequencelist.h
+	<stdio.h>
+	<stdlib.h>
+	"./Status.h"
+
+1524295166 d:\code\linearlist\sequencelist\status.h
+

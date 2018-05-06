@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1524921431 source:d:\code\linearlist\singlylinkedlist\main.c
+	"./SinglyLinkedList.c"
+
+1525005856 d:\code\linearlist\singlylinkedlist\singlylinkedlist.c
+	"./SinglyLinkedList.h"
+
+1525005860 d:\code\linearlist\singlylinkedlist\singlylinkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	"./Status.h"
+
+1524834843 d:\code\linearlist\singlylinkedlist\status.h
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1524561149 source:d:\code\linearlist\union\main.c
+	"./Union.c"
+
+1524565008 d:\code\linearlist\union\union.c
+	"./Union.h"
+
+1524565020 d:\code\linearlist\union\union.h
+	"./SqeuenceList.c"
+
+1524564998 d:\code\linearlist\union\sqeuencelist.c
+	<stdio.h>
+	<stdlib.h>
+	"./SequenceList.h"
+
+1524560992 d:\code\linearlist\union\sequencelist.h
+	"./Status.h"
+
+1524556429 d:\code\linearlist\union\status.h
+

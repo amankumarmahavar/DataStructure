@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525439136 source:d:\code\linearlist\staticlinkedlist\main.c
+	"./StaticLinkedList.c"
+
+1525435846 d:\code\linearlist\staticlinkedlist\staticlinkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	"./Status.h"
+
+1525077679 d:\code\linearlist\staticlinkedlist\status.h
+
+1525439063 d:\code\linearlist\staticlinkedlist\staticlinkedlist.c
+	"./StaticLinkedList.h"
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1524750652 source:d:\code\linearlist\mergesqlist\main.c
+	"./Merge.c"
+
+1524750758 d:\code\linearlist\mergesqlist\merge.c
+	"./SequenceList.c"
+
+1524750613 d:\code\linearlist\mergesqlist\sequencelist.c
+	<stdio.h>
+	<stdlib.h>
+	"./Merge.h"
+
+1524743912 d:\code\linearlist\mergesqlist\merge.h
+	"SequenceList.h"
+
+1524749172 d:\code\linearlist\mergesqlist\sequencelist.h
+	"./Status.h"
+
+1524743162 d:\code\linearlist\mergesqlist\status.h
+

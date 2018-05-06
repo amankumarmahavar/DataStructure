@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525353000 source:d:\code\linearlist\doublelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./DoubleLinkedList.c"
+
+1525435673 d:\code\linearlist\doublelinkedlist\doublelinkedlist.c
+	"./DoubleLinkedList.h"
+
+1525435678 d:\code\linearlist\doublelinkedlist\doublelinkedlist.h
+	"./Status.h"
+
+1525348758 d:\code\linearlist\doublelinkedlist\status.h
+
