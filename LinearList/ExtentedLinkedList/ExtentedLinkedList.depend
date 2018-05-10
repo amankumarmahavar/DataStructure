@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525605046 source:d:\code\linearlist\extentedlinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./ExtendedLinkedList.c"
+
+1525605100 d:\code\linearlist\extentedlinkedlist\extendedlinkedlist.c
+	"./ExtendedLinkedList.h"
+
+1525604263 d:\code\linearlist\extentedlinkedlist\extendedlinkedlist.h
+	"./Status.h"
+
+1525601641 d:\code\linearlist\extentedlinkedlist\status.h
+
