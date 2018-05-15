@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526388456 source:d:\code\stack&queue\linkqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkQueue.c"
+
+1526388491 d:\code\stack&queue\linkqueue\linkqueue.c
+	"LinkQueue.h"
+
+1526384945 d:\code\stack&queue\linkqueue\linkqueue.h
+	"./Status.h"
+
+1526391003 d:\code\stack&queue\linkqueue\status.h
+

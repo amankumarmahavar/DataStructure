@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1526303149 source:d:\code\stack&queue\conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Conversion.c"
+
+1526303134 d:\code\stack&queue\conversion\conversion.c
+	"./Conversion.h"
+	"math.h"
+
+1526303137 d:\code\stack&queue\conversion\conversion.h
+	"./Status.h"
+
+1526127004 d:\code\stack&queue\conversion\status.h
+

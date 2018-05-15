@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526304481 source:d:\code\stack&queue\conversion2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../SequenceStack/SequenceStack.c"
+
+1525953135 d:\code\stack&queue\sequencestack\sequencestack.c
+	"SequenceStack.h"
+
+1525957425 d:\code\stack&queue\sequencestack\sequencestack.h
+	"./Status.h"
+
+1525957403 d:\code\stack&queue\sequencestack\status.h
+

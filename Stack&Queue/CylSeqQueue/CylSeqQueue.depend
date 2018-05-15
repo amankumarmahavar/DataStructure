@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1526391275 source:d:\code\stack&queue\cylseqqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CylSeqQueue.c"
+
+1526390732 d:\code\stack&queue\cylseqqueue\cylseqqueue.c
+	"./CylSeqQueue.h"
+
+1526391157 d:\code\stack&queue\cylseqqueue\cylseqqueue.h
+
+1526384781 d:\code\stack&queue\linkqueue\status.h
+
