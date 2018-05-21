@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1526820727 source:d:\code\stack&queue\binarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BinaryTree.c"
+
+1526820942 d:\code\stack&queue\binarytree\binarytree.c
+	"./BinaryTree.h"
+
+1526820785 d:\code\stack&queue\binarytree\binarytree.h
+	"./Status.h"
+
+1526820178 d:\code\stack&queue\binarytree\status.h
+
+1526910575 source:d:\code\tree\binarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BinaryTree.c"
+
+1526910617 d:\code\tree\binarytree\binarytree.c
+	"./BinaryTree.h"
+
+1526909794 d:\code\tree\binarytree\binarytree.h
+	"./Status.h"
+	"./Scanf.c"
+	"../../Stack&Queue/SequenceStack/SequenceStack.h"
+
+1526820178 d:\code\tree\binarytree\status.h
+
+1463630458 d:\code\tree\binarytree\scanf.c
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<ctype.h>
+
+1525957425 d:\code\stack&queue\sequencestack\sequencestack.h
+	"./Status.h"
+
+1525957403 d:\code\stack&queue\sequencestack\status.h
+
