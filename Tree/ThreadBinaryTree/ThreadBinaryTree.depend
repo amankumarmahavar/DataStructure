@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1527255679 source:d:\code\tree\threadbinarytree\main.cpp
+1527423296 source:d:\code\tree\threadbinarytree\main.cpp
 	<iostream>
 	<malloc.h>
 	<string>

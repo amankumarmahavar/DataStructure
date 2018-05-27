@@ -1,6 +1,5 @@
 #include <iostream>
 #include <malloc.h>
-//#include <stdio.h>
 #include <string>
 using namespace std;
 
@@ -17,20 +16,21 @@ BiThrTree pre;
 
 void CreateBiThrTree(BiThrTree *T){
 
-	char c;
-	cin>>c;
-	if(c ==' '){
+	char ch;
+
+	cin>>ch;
+	if(ch == '^')
 		*T = NULL;
-	}
 	else{
-		*T = (BiThrNode *)malloc(sizeof(BiThrNode));
-		if(!(*T))	exit(0);
-		(*T)->data = c;
+        *T = (BiThrNode *)malloc(sizeof(BiThrNode));
+        if(!(*T))
+			exit(0);
+		(*T)->data = ch;
 		(*T)->ltag = Link;
 		(*T)->rtag = Link;
 		CreateBiThrTree(&(*T)->lchild);
 		CreateBiThrTree(&(*T)->rchild);
-	}
+		}
 }
 
 void InThreading(BiThrTree T){
@@ -41,7 +41,7 @@ void InThreading(BiThrTree T){
 			T->lchild = pre;
 		}
 		if(!pre->rchild){
-			pre->ltag = Thread;
+			pre->rtag = Thread;
 			pre->rchild = T;
 		}
 		pre = T;
@@ -93,6 +93,7 @@ int main()
 {
 		BiThrTree p,T=NULL;
 		CreateBiThrTree(&T);
+		InOrderThreading(&p,T);
 		cout<<"中序遍历的结果为："<<endl;
 		InOrderTraverse(p);
 		cout<<endl;
