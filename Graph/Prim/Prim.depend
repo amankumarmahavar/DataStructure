@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527687870 source:d:\code\graph\prim\main.c
+	<stdio.h>
+	<stdlib.h>
+
