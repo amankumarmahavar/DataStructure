@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528724681 source:d:\code\searching\insertionsearch\main.c
+	<stdio.h>
+	<stdlib.h>
+
